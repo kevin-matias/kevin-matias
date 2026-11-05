@@ -41,4 +41,3 @@ Transformo dados em decisão: dashboards, pipelines de dados e automação de pr
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-matiass)
 
 - 📧 E-mail: [contatokevin0308@gmail.com](mailto:contatokevin0308@gmail.com)
-- 📱 Telefone/WhatsApp: (11) 95976-8841
