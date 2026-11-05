@@ -1,5 +1,3 @@
-# Olá, eu sou o Kevin Matias 👋
-
 **Analista de Dados Pleno** na Enesa Engenharia · São Paulo, Brasil
 
 Cursando Análise e Desenvolvimento de Sistemas na FIAP (2024–2027).
